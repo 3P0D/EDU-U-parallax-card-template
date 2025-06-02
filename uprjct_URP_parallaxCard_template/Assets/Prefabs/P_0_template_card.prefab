@@ -1100,7 +1100,7 @@ GameObject:
   - component: {fileID: 2786851624155863034}
   - component: {fileID: 4273315197224021793}
   m_Layer: 0
-  m_Name: pfb_0_template_card
+  m_Name: P_0_template_card
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
