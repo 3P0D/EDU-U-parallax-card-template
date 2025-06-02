@@ -13,11 +13,11 @@ public class scrpt_lookAtMouse : MonoBehaviour
 
         if (_switchView)
         {
-            transform.GetChild(0).gameObject.transform.localRotation = Quaternion.Euler(0, 0, 0);
+            transform.GetChild(0).gameObject.transform.localRotation = Quaternion.Euler(0, 180, 0);
         }
         else
         {
-            transform.GetChild(0).gameObject.transform.localRotation = Quaternion.Euler(0, 180, 0);
+            transform.GetChild(0).gameObject.transform.localRotation = Quaternion.Euler(0, 0, 0);
         }
     }
 
