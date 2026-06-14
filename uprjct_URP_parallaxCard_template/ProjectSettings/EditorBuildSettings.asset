@@ -6,6 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/sc_x_demoScene_Mobile.unity
+    path: Assets/Scenes/SC_X_demoScene_Mobile.unity
     guid: 07a5a8018f82f424ab2565d33fd4df52
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
